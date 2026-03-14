@@ -1,1 +1,1 @@
-[# EJECUTRÓN - Lenguaje de programación con etiquetas.](https://ejecutron.surge.sh/)
+[EJECUTRÓN](https://ejecutron.surge.sh/)
